@@ -52,7 +52,7 @@ Inspect the CSV files, and then sketch an Entity Relationship Diagram of the tab
 # Requirements
 
 ## Data Modeling 
-  - Entity Relationship Diagram is included or table schemas provided for all tables (10 points)
+  - Entity Relationship Diagram is included or table schemas provided for all tables
 
 ## Data Engineering 
   - All required columns are defined for each table 
